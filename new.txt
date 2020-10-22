@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new file  text message > changed here
+=======
+added before new file  text message 
+>>>>>>> 67bf6268daf321089fb49acb614adbce4fb1f5d1
